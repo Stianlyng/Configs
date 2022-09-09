@@ -49,17 +49,7 @@ matches:
 
 
   # MAILS
-  - trigger: ":sst"
-    replace: "sst237@post.$|$uit.no"
-
-  - trigger: ":sls"
-    replace: "stian.sls@gmail.com"
   
-  - trigger: ":stian"
-    replace: "stianlyng@protonmail.com"
-
-  - trigger: "@div"
-    replace: "diversebrukere@protonmail.com"
 
   
   # ================================================== DEVELOPMENT ==================================================
